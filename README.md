@@ -1,4 +1,5 @@
 # Wifi-hacking-
+
 # Feutures and Containt :
     1)Start monitor mode
 
@@ -45,7 +46,7 @@
     cd wifi-hacking.py
     ls
     sudo python3 wifi-hacking.py
-#Termux Installation : 
+# Root Termux Installation : 
     apt update 
     apt install git 
     apt install python
